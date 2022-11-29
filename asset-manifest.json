@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TicTacToe/static/css/main.42e44863.chunk.css",
+    "main.js": "/TicTacToe/static/js/main.41af06e1.chunk.js",
+    "main.js.map": "/TicTacToe/static/js/main.41af06e1.chunk.js.map",
+    "runtime-main.js": "/TicTacToe/static/js/runtime-main.142329b5.js",
+    "runtime-main.js.map": "/TicTacToe/static/js/runtime-main.142329b5.js.map",
+    "static/js/2.a7bfbbee.chunk.js": "/TicTacToe/static/js/2.a7bfbbee.chunk.js",
+    "static/js/2.a7bfbbee.chunk.js.map": "/TicTacToe/static/js/2.a7bfbbee.chunk.js.map",
+    "index.html": "/TicTacToe/index.html",
+    "static/css/main.42e44863.chunk.css.map": "/TicTacToe/static/css/main.42e44863.chunk.css.map",
+    "static/js/2.a7bfbbee.chunk.js.LICENSE.txt": "/TicTacToe/static/js/2.a7bfbbee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142329b5.js",
+    "static/js/2.a7bfbbee.chunk.js",
+    "static/css/main.42e44863.chunk.css",
+    "static/js/main.41af06e1.chunk.js"
+  ]
+}
